@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samareshmail679@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r4Uk0W7U3As-h56xW3ZefofQl1SKVgHk/view?usp=sharing](https://drive.google.com/file/d/1r4Uk0W7U3As-h56xW3ZefofQl1SKVgHk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wAcI09d5AB2pYlRQJQ6COGkfX2sKlVaz/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am the best pro gamer.**
 
