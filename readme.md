@@ -68,6 +68,10 @@
   
 
 <br/>  
+ 
+![](https://leetcard.jacoblin.cool/SamareshDas?ext=heatmap)
+
+<br/>
 
 
 ## Github Stats 
