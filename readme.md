@@ -69,7 +69,8 @@
 
 <br/>  
  
-![](https://leetcard.jacoblin.cool/SamareshDas?ext=heatmap)
+[![LeetCode Profile](https://leetcard.jacoblin.cool/SamareshDas?ext=heatmap)](https://leetcode.com/SamareshDas)
+
 
 <br/>
 
