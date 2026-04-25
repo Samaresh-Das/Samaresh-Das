@@ -1,120 +1,144 @@
-### **<div align="center">I'm Samaresh, a full-time frontend developer, 👨‍💻 Self-taught developer 🚀</div>**  
-  
-
-- *🌱 I’m currently learning MERN stack and DSA*  
-  
-
-- *❓ Ask me about anything related to HTML, CSS and JS.*  
-  
-
-- *⚡ Fun fact: I use tabs over spaces*  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/samaresh-das" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/samaresh-das-ab9621212" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/samaresh.d" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
- 
-[![LeetCode Profile](https://leetcard.jacoblin.cool/SamareshDas?ext=heatmap)](https://leetcode.com/SamareshDas)
+```
+███████╗ █████╗ ███╗   ███╗ █████╗ ██████╗ ███████╗███████╗██╗  ██╗
+██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔════╝██║  ██║
+███████╗███████║██╔████╔██║███████║██████╔╝█████╗  ███████╗███████║
+╚════██║██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗██╔══╝  ╚════██║██╔══██║
+███████║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║███████╗███████║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
+### 👨‍💻 Full-Stack Developer · Self-Taught · Building the Web, One Component at a Time
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0BB5F4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=MERN+Stack+%7C+TypeScript+%7C+Next.js;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 Currently leveling up in **MERN Stack** and **DSA**
+- 💬 Let's talk about **AI, Agentic AI, Full-Stack Development** — I love a good deep-dive conversation
+- ⚡ Fun fact: **Tabs over spaces.** Always. No debate.
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🎨 Frontend
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,bootstrap,figma,git" />
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,ts,graphql,bash,deno" />
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### ☁️ DevOps & Cloud
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,linux,git,bash,firebase" />
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0BB5F4?style=for-the-badge&logoColor=white)](https://portfolio-2-tau-sable.vercel.app/)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-FF6B6B?style=for-the-badge&logoColor=white)](https://hire-sam.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samaresh-das)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samaresh-das-ab9621212)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samaresh.d)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+> *Writing about things I learn the hard way, so you don't have to.*
+
+<!-- BLOG POSTS – fetched from samsdev.xyz/api/posts -->
+
+### 📌 [Using AI as backend training wheels](https://samsdev.xyz)
+`Apr 25, 2026` · `#backend #aiindev #webdevelopment`
+
+AI isn't here to steal your job — it's here to hold your hand. Learn how to use AI as scaffolding to build faster, understand deeper, and ship smarter.
+
+---
+
+### 📌 [I Built a Bot That Posts to LinkedIn Every Day — And It Cost Me Nothing](https://samsdev.xyz)
+`Apr 23, 2026` · `#buildinpublic #javascript #ai #devtools`
+
+The full story of building a fully automated LinkedIn posting agent using Gemini, NewsAPI, Stability AI, and GitHub Actions — zero dollars, zero manual effort.
+
+---
+
+### 📌 [Stop memorizing JS — think in execution context](https://samsdev.xyz)
+`Apr 23, 2026` · `#javascript #webdev`
+
+Stop reciting rules and start thinking about how JS actually runs. Understanding execution context, hoisting, and `this` will change how you write code forever.
+
+---
+
+➡️ **[Read all posts on sam's blog](https://sams-dev-blog.vercel.app/)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![@samaresh679's Holopin board](https://holopin.me/samaresh679)](https://holopin.io/@samaresh679)
 
 <br/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samaresh-das&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaresh-das&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117" />
 
-## Github Stats 
-[![@samaresh679's Holopin board](https://holopin.me/samaresh679)](https://holopin.io/@samaresh679)
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaresh-das&hide_border=true&layout=compact" align="center" /></div>  
+<br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=samaresh-das&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![GitHub Streak](https://streak-stats.demolab.com?user=samaresh-das&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-<br/>  
+</div>
 
+---
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31uvw4jeeyyojfabk3upy45xwvja&cover_image=true&theme=default&bar_color=0bb5f4" /></div>  
-
-<br/>  
+## 🎵 Currently Listening To
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=samaresh-das&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31uvw4jeeyyojfabk3upy45xwvja&cover_image=true&theme=default&bar_color=0bb5f4)](https://spotify-github-profile.vercel.app/api/view?uid=31uvw4jeeyyojfabk3upy45xwvja&redirect=true)
 
+</div>
 
-<br />
+---
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=samaresh-das&style=flat-square&color=0bb5f4)
+
+*Generated with ❤️ using [Github Profilinator](https://profilinator.rishav.dev/)*
+
+</div>
